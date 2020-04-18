@@ -35,7 +35,7 @@ html, body {
   }
   
   .note-title:read-only, .note-textarea:read-only {
-    color: #757575;
+    color: #E6E6FA;
   }
   
   .list-container .card {
