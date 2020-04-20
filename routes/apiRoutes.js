@@ -1,5 +1,5 @@
 let db = require("../db/db.json");
-const store = require("../js/store");
+const store = require("../public/assets/js/store");
 const fs = require("fs");
 const router = require("express").Router();
 const path = require("path");
